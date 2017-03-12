@@ -1,13 +1,11 @@
-
+# 一分钟实现QQ首页动画特效
 
 # Preview
 ![CoolImageView](myapplication/gif/CoolImageView.gif)
 
-step2:Add the following code to the root view of your layout:  
------
-```xml
-xmlns:app="http://schemas.android.com/apk/res-auto"
-```
+![coolImag](myapplication/gif/coolImag.gif)
+
+
 
 step3:Add the widget code in the appropriate place in your xml file, Here's a sample implementation:  
 -----
