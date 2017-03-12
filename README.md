@@ -1,7 +1,7 @@
 
 
 # Preview
-![CoolImageView](gif/CoolImageView.gif)
+![CoolImageView](myapplication/gif/CoolImageView.gif)
 
 step2:Add the following code to the root view of your layout:  
 -----
